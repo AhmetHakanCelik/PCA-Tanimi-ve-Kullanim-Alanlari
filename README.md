@@ -9,8 +9,8 @@
 
  Bu sürecin sonunda elde edilen doğrular bir doğrusal uzayın tabanlarını oluşturur. Bu taban vektörüne temel bileşen adı verilir. 
  Temel bileşenlerin 3 farklı özelliği vardır ;
- 1-Verinin temel bileşenleri birbirinden bağımsızdır.
- 2-Birinci temel bileşen toplam değişkenliği en çok açıklayan bileşendir.
- 3-Bir sonraki temel bileşen de kalan değişkenliği en çok açıklayan bileşendir.
+ -1-Verinin temel bileşenleri birbirinden bağımsızdır.
+ -2-Birinci temel bileşen toplam değişkenliği en çok açıklayan bileşendir.
+ -3-Bir sonraki temel bileşen de kalan değişkenliği en çok açıklayan bileşendir.
 
  
