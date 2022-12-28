@@ -25,6 +25,18 @@ Genel Olarak Temel Bileşen Analizi’ nin amaçları ;
 
   şeklinde ifade edilebilir.
 
+##PCA'nın Kullanıldığı Genel Alanlar
+
+- Genetik
+- Sağlık
+- Enerji
+- Elektronik
+- Veri Bilimi
+
+
+
+
+
 
 
 
