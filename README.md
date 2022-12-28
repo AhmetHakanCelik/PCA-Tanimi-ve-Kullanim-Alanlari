@@ -16,6 +16,15 @@
  - Birinci temel bileşen toplam değişkenliği en çok açıklayan bileşendir.
  - Bir sonraki temel bileşen de kalan değişkenliği en çok açıklayan bileşendir.
 
+##PCA’ nın Amaçları
+
+Genel Olarak Temel Bileşen Analizi’ nin amaçları ;
+- Verilerin boyutunu indirgemek  (değişken sayısını azaltmak) 
+- Değişkenler arasındaki ilişki yapısını ortadan kaldırmak
+- Diğer istatistiksel analizler için veri toplamak 
+
+  şeklinde ifade edilebilir.
+
 
 
 
