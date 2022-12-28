@@ -33,6 +33,16 @@ Genel Olarak Temel Bileşen Analizi’ nin amaçları ;
 - Elektronik
 - Veri Bilimi
 
+##Makine Öğrenmesinde Kullanımı
+
+Veri Bilimi çalışmalarında çok sayıda değişken ile çalışılması gerekebilir.Bu durum eğitim(training) süresinin fazla olması, aşırı 
+öğrenme(overlifting) ve çoklu doğrusal bağlantı(multicollinearity) gibi sorunları beraberinde getirir.Hazırlanan modellerin optimum 
+sürede ve performansla çalışması gerekecektir.Bu problemleri aşmak için değişken seçimi ve boyut indirgeme yöntemleri kullanılabilir. 
+Değişken seçiminde veri setindeki değişken korunur ya da tamamen kaldırılır. Boyut indirgemede ise mevcut değişkenlerin kombinasyonlarından 
+oluşan yeni değişkenler yaratılarak değişken sayısı azaltılır. Böylece veri setindeki tüm özellikler hala mevcut ancak değişken sayısı azaltılmış
+olur.
+
+
 
 
 
