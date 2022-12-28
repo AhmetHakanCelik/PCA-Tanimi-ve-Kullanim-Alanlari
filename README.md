@@ -13,7 +13,7 @@
  - Birinci temel bileşen toplam değişkenliği en çok açıklayan bileşendir.
  - Bir sonraki temel bileşen de kalan değişkenliği en çok açıklayan bileşendir.
 
-[resim]: C:\Users\ahmet\Documents\GitHub\PCA-Tan-m--ve-Kullan-m-Alanlar-\Resim1.png
+![Photo by Roman Synkevych on Unsplash][resim] [resim]: C:\Users\ahmet\Documents\GitHub\PCA-Tan-m--ve-Kullan-m-Alanlar-\Resim1.png
 
 
 
