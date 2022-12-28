@@ -49,6 +49,13 @@ olur.
 - Örüntü Tanıma
 - Resim Sıkıştırma
 
+#KAYNAKÇA
+
+ - https://en.wikipedia.org/wiki/Principal_component_analysis
+ - http://www.zafercomert.com/IcerikDetay.aspx?zcms=78
+ - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2757795/
+
+
 
 
 
