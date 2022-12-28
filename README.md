@@ -42,6 +42,11 @@ Değişken seçiminde veri setindeki değişken korunur ya da tamamen kaldırıl
 oluşan yeni değişkenler yaratılarak değişken sayısı azaltılır. Böylece veri setindeki tüm özellikler hala mevcut ancak değişken sayısı azaltılmış
 olur.
 
+##Genel Kullanım Alanları
+- Yüz Tanıma
+- Örüntü Tanıma
+- Resim Sıkıştırma
+
 
 
 
