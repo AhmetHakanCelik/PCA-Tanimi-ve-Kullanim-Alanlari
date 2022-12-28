@@ -1,6 +1,6 @@
 # PCA Tanımı ve Kullanım Alanları
 
-##Temel Bileşen Analizi (PCA) Nedir?
+## Temel Bileşen Analizi (PCA) Nedir?
 
    Temel Bileşen Analizi (PCA), çok boyutlu uzaydaki bir verinin daha düşük boyutlu bir uzaya izdüşümünü, varyansı maksimizde edecek
  şekilde bulma yöntemidir. Uzayda bir noktalar kümesi için tüm noktalara ortalama uzaklığı en az olan “en uygun doğru” seçilir. Daha 
@@ -18,7 +18,7 @@
 ![Resim]<img width="454" alt="Resim" src="https://user-images.githubusercontent.com/76557881/209857744-58dec75f-b4f1-4c5b-8da5-0e2f2bcd65fd.png"> 
 
 
-##PCA’ nın Amaçları
+## PCA’ nın Amaçları
 
 Genel Olarak Temel Bileşen Analizi’ nin amaçları ;
 - Verilerin boyutunu indirgemek  (değişken sayısını azaltmak) 
@@ -27,7 +27,7 @@ Genel Olarak Temel Bileşen Analizi’ nin amaçları ;
 
   şeklinde ifade edilebilir.
 
-##PCA'nın Kullanıldığı Genel Alanlar
+## PCA'nın Kullanıldığı Genel Alanlar
 
 - Genetik
 - Sağlık
@@ -35,7 +35,7 @@ Genel Olarak Temel Bileşen Analizi’ nin amaçları ;
 - Elektronik
 - Veri Bilimi
 
-##Makine Öğrenmesinde Kullanımı
+## Makine Öğrenmesinde Kullanımı
 
 Veri Bilimi çalışmalarında çok sayıda değişken ile çalışılması gerekebilir.Bu durum eğitim(training) süresinin fazla olması, aşırı 
 öğrenme(overlifting) ve çoklu doğrusal bağlantı(multicollinearity) gibi sorunları beraberinde getirir.Hazırlanan modellerin optimum 
@@ -44,12 +44,12 @@ Değişken seçiminde veri setindeki değişken korunur ya da tamamen kaldırıl
 oluşan yeni değişkenler yaratılarak değişken sayısı azaltılır. Böylece veri setindeki tüm özellikler hala mevcut ancak değişken sayısı azaltılmış
 olur.
 
-##Genel Kullanım Alanları
+## Genel Kullanım Alanları
 - Yüz Tanıma
 - Örüntü Tanıma
 - Resim Sıkıştırma
 
-#KAYNAKÇA
+# KAYNAKÇA
 
  - https://en.wikipedia.org/wiki/Principal_component_analysis
  - http://www.zafercomert.com/IcerikDetay.aspx?zcms=78
